@@ -4,7 +4,7 @@ Thanks for viewing my Project.
 + Make sure you have Yarn Package installer, If you had not downloaded it please go and download
 + I hadn't upload `node_modules` so open up command prompt in downloaded folder and run below command
 ```
-yarn add 
+yarn install
 ```
 I used Postman API Service for handling Requests to make easy .
 ## Must Read
